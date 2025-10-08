@@ -1,0 +1,32 @@
+[
+  {
+    "word": "அரக்கி",
+    "meaning_ta": "பழங்கால தமிழ் சொல்லின் விளக்கம்",
+    "meaning_en": "An archaic Tamil word meaning something old or ceremonial",
+    "domain": "Literature",
+    "period": "Sangam",
+    "modern_equivalent": "அனைத்துச் செயல்கள்",
+    "status": "extinct",
+    "notes": "Found in classical poems"
+  },
+  {
+    "word": "கொம்பி",
+    "meaning_ta": "மூட்டையான பொருள்",
+    "meaning_en": "A curved horn-like object or hook",
+    "domain": "Daily life",
+    "period": "Medieval",
+    "modern_equivalent": "குருவி",
+    "status": "rare",
+    "notes": "Used in agrarian contexts"
+  },
+  {
+    "word": "மறுநாள்",
+    "meaning_ta": "நாளைய தினம்",
+    "meaning_en": "The following day",
+    "domain": "Temporal",
+    "period": "Modern",
+    "modern_equivalent": "நாளை",
+    "status": "common",
+    "notes": "Still in use in some dialects"
+  }
+]

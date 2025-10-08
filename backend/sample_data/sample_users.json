@@ -1,0 +1,29 @@
+{
+  "admins": [
+    {
+      "username": "admin1",
+      "password": "password123",
+      "role": "Admin"
+    }
+  ],
+  "teachers": [
+    {
+      "name": "Meena",
+      "email": "meena.teacher@example.com",
+      "password": "teachpass",
+      "role": "Teacher",
+      "tempWordsFile": ""
+    }
+  ],
+  "students": [
+    {
+      "name": "Kumar",
+      "email": "kumar.student@example.com",
+      "password": "studentpass",
+      "role": "Student",
+      "points": 120,
+      "rewards": ["Sticker", "Certificate"],
+      "leaderboardRank": 5
+    }
+  ]
+}
